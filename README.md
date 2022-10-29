@@ -8,7 +8,7 @@ Publishing code on the Internet is an important aspect of deploying software. Th
 
 ## Technologies Used
 
-*Git
-*GitHub
-*Bash
-*Gitpod
+* Git
+* GitHub
+* Bash
+* Gitpod
